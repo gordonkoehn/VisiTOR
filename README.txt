@@ -16,4 +16,4 @@ http://www.raspberrypi-tutorials.de/software/livestream-im-browser-mit-dem-raspb
 
 http://www.cyberciti.biz/tips/nohup-execute-commands-after-you-exit-from-a-shell-prompt.html#more-805
 
-
+http://raspberrypihq.com/how-to-add-wifi-to-the-raspberry-pi/
